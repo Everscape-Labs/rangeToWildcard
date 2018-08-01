@@ -1,6 +1,6 @@
 {
   "name": "rangetowildcard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert an index name + date range to an array of wildcarded indices",
   "main": "index.js",
   "scripts": {
