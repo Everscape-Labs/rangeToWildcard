@@ -1,0 +1,34 @@
+{
+  "name": "rangetowildcard",
+  "version": "1.0.0",
+  "description": "Convert an index name + date range to an array of wildcarded indices",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Everscape-Labs/rangeToWildcard.git"
+  },
+  "keywords": [
+    "wildcard",
+    "elsaticsearch",
+    "node",
+    "helper"
+  ],
+  "author": "Johan Leche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Everscape-Labs/rangeToWildcard/issues"
+  },
+  "homepage": "https://github.com/Everscape-Labs/rangeToWildcard#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "es6-error": "^4.1.1",
+    "moment": "^2.22.2",
+    "winston": "^3.0.0"
+  }
+}
