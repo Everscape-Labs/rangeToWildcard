@@ -1,5 +1,8 @@
 # rangeToWildcard
 
+
+![Build passing ?](https://travis-ci.org/Everscape-Labs/rangeToWildcard.svg?branch=master)
+
 Elastic Search helper for Time Series indices - It converts a date range (dateFrom and dateTo) to an array of wildcarded dates.
 
 It supports `month` and `day` conversion.
